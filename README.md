@@ -1,4 +1,5 @@
-📊 Sales Data Analysis Project (Excel-Based)
+# 📊 Sales Data Analysis Project (Excel-Based)
+
 📁 Project Overview
 This project presents a comprehensive sales data analysis using Microsoft Excel. It aims to deliver actionable insights into sales performance, profitability, and customer behavior by leveraging Excel’s data handling and visualization tools.
 
